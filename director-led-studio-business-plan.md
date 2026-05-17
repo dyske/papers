@@ -1,5 +1,13 @@
 # A Director-Led Studio: Business Plan for AI-Era Software Development
 
+## Executive Summary
+
+This plan argues that AI is collapsing software development from a team-based execution business into a judgment-led creative practice. Since AI makes implementation cheaper and more uniform, the scarce value shifts to taste, product vision, framing, and the ability to direct AI toward coherent outcomes.
+
+The proposed business is a director-led software studio: closer to an architecture firm or film production company than an agency. It would represent a small roster of distinctive maker-directors, give them shared infrastructure, sales, legal, specialist support, and institutional authority, then sell clients on authored product judgment rather than billable hours.
+
+Its success depends less on scaling headcount and more on building authority: selective directors, selective clients, strong public writing, category-defining language, and visible taste. The main risks are dilution, founder bottleneck, director departures, client concentration, fragile reputation, and the possibility that the market takes longer than expected to recognize this new category.
+
 ## I. The Future This Business Is Built For
 
 The application development industry is undergoing a structural change of the same magnitude as the one that ended the era of bespoke industrial design firms in the late twentieth century, or the one that turned print advertising into a commodity in the early 2000s. The change is not that AI is making developers more productive. The change is that AI is dissolving the bundle that defined what a "developer" was for thirty years — the combination of language fluency, framework expertise, platform knowledge, debugging skill, and pattern recognition — and unbundling it into something that anyone with the right judgment can compose.
