@@ -8,7 +8,7 @@ What I have seen is not work disappearing. I have seen the quality of work go up
 
 AI has made it possible for a small team to deliver products that used to require budgets and teams far beyond our reach. I used to look at something like Google Maps and think, “If only someone paid us millions of dollars, we could build something that polished.” Now, with AI handling more of the execution, that kind of ambition is no longer absurd. Clients are beginning to realize this too. Custom software they could not have imagined owning can now be built with the kind of polish they have come to expect from companies like Google.
 
-So if you are worried that using AI will make you less valuable, I would gently suggest the opposite. If you learn to use AI well, you will probably become busier. As the saying goes, if you want something done, ask a busy person. AI makes capable people more capable. The spreadsheet does not merely get finished faster; it becomes clearer, more useful, better designed, and more persuasive. The report does not simply get written; it becomes something you are proud to send.
+So if you are worried that using AI will make you less valuable, I think the opposite is more likely. If you learn to use AI well, you will probably become busier. As the saying goes, if you want something done, ask a busy person. AI makes capable people more capable. The spreadsheet does not merely get finished faster; it becomes clearer, more useful, better designed, and more persuasive. The report does not simply get written; it becomes something you are proud to send.
 
 The work does not disappear. It gets better.
 
