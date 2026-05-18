@@ -2,7 +2,7 @@
 
 A lot of people are uneasy about AI. Some are afraid it will replace them. Others worry that using it means helping replace someone else.
 
-I understand both fears. A few years ago, I worried that AI might eliminate my own business, a digital agency that builds and manages applications for clients. At the same time, I was fascinated by how it worked. I still have both feelings—fear and excitement—but my experience over the past year has changed what I am afraid of.
+I understand both fears. A few years ago, I worried that AI might eliminate my own business, a digital agency that builds and manages applications for clients. At the same time, I was fascinated by how it worked. I still have both feelings, fear and excitement, but my experience over the past year has changed what I am afraid of.
 
 What I have seen is not work disappearing. I have seen the quality of work go up.
 
