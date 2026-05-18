@@ -1,5 +1,7 @@
 # Private AI Fluency Coaching
 
+## AI Anxiety Is Understandable
+
 A lot of people are uneasy about AI. Some are afraid it will replace them. Others worry that using it means helping replace someone else.
 
 I understand both fears. A few years ago, I worried that AI might eliminate my own business, a digital agency that builds and manages applications for clients. At the same time, I was fascinated by how it worked. I still have both feelings, fear and excitement, but my experience over the past year has changed what I am afraid of.
@@ -12,11 +14,15 @@ So if you are worried that using AI will make you less valuable, I think the opp
 
 The work does not disappear. It gets better.
 
+## Hands-On Coaching
+
 But first, AI has to stop feeling mysterious and threatening. That is where I can help.
 
 I offer private, hands-on AI coaching for people who want AI to finally click. We sit together, side by side. You stay at the keyboard. We use your real work, your real files, your real questions, and your real problems. I guide you through what to ask, how to ask it, how to judge the answer, what is safe or risky, and how to keep going when the AI gets stuck or gets something wrong.
 
 This is not a lecture, a webinar, or a generic list of prompts. You do not learn by watching me perform. You learn by doing it yourself, with me next to you, until the fear turns into curiosity.
+
+## Real Examples
 
 Here is a small sample of what I have demonstrated for clients.
 
@@ -28,7 +34,11 @@ With a photography enthusiast, I demonstrated how he could create a plugin for A
 
 I have also helped people clean up bank and credit card export files, normalize the data, and turn it into useful bookkeeping spreadsheets. I have shown people how to troubleshoot their own computers with OpenAI’s Codex. The list keeps growing because every person brings a different kind of work, a different kind of anxiety, and a different moment where AI suddenly becomes practical.
 
+## Software Made for You
+
 We now live in an era where software does not always have to be shared with thousands of other people just to justify the cost of building it. You can have tools made for your own life, your own business, your own habits, and your own taste. You can fly private. Once you experience that, it is hard to go back to flying commercial.
+
+## How We Can Work Together
 
 Part of my incentive for offering this service is that I want to understand how AI can be used across different industries and professions. In that sense, this is also a research project for me. I am interested in the real edge cases: the messy workflows, the old habits, the weird files, the half-manual processes, the things people have tolerated for years because they assumed there was no practical alternative.
 
