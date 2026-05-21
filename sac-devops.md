@@ -2,7 +2,7 @@
 
 ## Premise
 
-The [SaC architecture document](./sac-architecture.md) describes what gets built and how the system is structured. This document is its operational and governance companion. It describes who builds the system, what infrastructure they consume, and how the company keeps control without becoming the bottleneck.
+The SaC architecture document describes what gets built and how the system is structured. This document is its operational and governance companion. It describes who builds the system, what infrastructure they consume, and how the company keeps control without becoming the bottleneck.
 
 The same economic shift drives both. AI collapses the cost of building software, which is what the architecture document is about. AI also collapses the cost of provisioning infrastructure, deploying services, reading logs, and diagnosing incidents. When both costs collapse, the binding constraint stops being engineering capacity and becomes governance: who is allowed to build what, with which tools, against which data, at what cost, with what auditability. Without governance, AI-collapsed cost just means everyone provisions everything everywhere and the company becomes ungovernable in no time. With governance, the same cost collapse means the company finally has the operational fluency to match its business velocity. It is DevOps redesigned around the assumption that **most people building production systems are not professional engineers**, that **AI agents do most of the actual work**, and that **the company's leverage point is the curation and governance of the substrate**.
 
