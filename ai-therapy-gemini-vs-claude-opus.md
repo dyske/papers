@@ -87,3 +87,16 @@ Which led to the recognition that the question itself was malformed. There's no 
 And finally, the meta-observation: the conversation moved from CBT into more psychoanalytic territory, because CBT assumes contradictions can be resolved into coherence, while what you were actually examining was a constitutive contradiction — the kind that doesn't resolve, only gets inhabited more honestly.
 
 That's the session.
+
+---
+
+## Analysis
+
+The key difference I noticed, which may not be obvious from the summaries above, is that Claude was was more adaptive. It recognized that CBT isn't the right modality for what I need to address, so it quietly switched. When I noted it back to it, it admitted doing so.
+
+
+In the end, my chat with Gemini went on for much longer but ended mostly in articulating my sentiments. It is useful to symbolize vague feelings but I didn't particularly find it therapeutic.
+
+Claude Opus, on the other hand, surfaced some questions that I had never considered, which I found genuninely helpful.
+
+
