@@ -17,6 +17,10 @@ Please keep your responses conversational, compassionate, and easy to digest. Le
 
 The issue I chose to address: "I often get this sense that my business clients find me hard to work with because I’m exceptionally blunt."
 
+I asked both models to summarize our sessions:
+
+---
+
 
 ## Google Gemini 3.5
 
