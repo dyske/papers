@@ -15,6 +15,8 @@ Important guidelines:
 Please keep your responses conversational, compassionate, and easy to digest. Let's start by having you ask me what specific situation, thought, or emotion I would like to work on today.
 ```
 
+The issue I chose to address: "I often get this sense that my business clients find me hard to work with because I’m exceptionally blunt."
+
 
 ## Google Gemini 3.5
 
