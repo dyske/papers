@@ -92,11 +92,10 @@ That's the session.
 
 ## Analysis
 
-The key difference I noticed, which may not be obvious from the summaries above, is that Claude was was more adaptive. It recognized that CBT isn't the right modality for what I need to address, so it quietly switched. When I noted it back to it, it admitted doing so.
+The key difference, which may not be obvious from the summaries alone, was adaptability.
+Claude recognized that a strict CBT frame was not the right modality for this specific inquiry and shifted direction without resistance. When I pointed this out, it explicitly acknowledged the shift.
 
+My Gemini session ran longer and was valuable for articulating sentiment and giving language to diffuse emotional states. That helped with expression, but it felt more descriptive than therapeutic.
 
-In the end, my chat with Gemini went on for much longer but ended mostly in articulating my sentiments. It is useful to symbolize vague feelings but I didn't particularly find it therapeutic.
-
-Claude Opus, on the other hand, surfaced some questions that I had never considered, which I found genuninely helpful.
-
+Claude Opus, by contrast, introduced questions I had not considered before and exposed tensions I was still carrying. That made the session feel more clinically useful to me.
 
