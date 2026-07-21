@@ -4,7 +4,6 @@
 
 - [Using AI Agents as Therapists (Comparative Test)](ai-therapy-gemini-vs-claude-opus.md)
 - [What AI Is Good At—and What It Is Bad At](ai-therapy-psychoanalysis-limits.md)
-- [Delegate or Relegate? What Should AI Handle for You?](delegate-or-relegate.md)
 - [A Director-Led Studio: Business Plan for AI-Era Software Development](director-led-studio-business-plan.md)
 - [Distillation, the Loop, and the Dimensions of Learning](distillation-loop-dimensions.md)
 - [Inductive and Transductive Learning](inductive-vs-transductive-learning.md)
